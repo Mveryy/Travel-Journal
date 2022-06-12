@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 10px; /* 1 rem = 10px */
+}
+
+body {
+    background-color: #e5e5e5;
+    font-family: "Inter", sans-serif;
+
+    width: 100vw;
+    height: fit-content;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div {
+    max-width: 55rem;
+}

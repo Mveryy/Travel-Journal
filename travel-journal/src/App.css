@@ -1,0 +1,11 @@
+.app {
+    max-height: 70.4rem;
+    background-color: #ffffff;
+    border-radius: 1rem;
+    margin: 6rem 2rem;
+    overflow-y: auto;
+}
+
+.cards {
+    margin: 4% 0 0 4%;
+}

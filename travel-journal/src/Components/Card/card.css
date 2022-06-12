@@ -1,0 +1,71 @@
+.card {
+    display: flex;
+    align-items: center;
+    margin-bottom: 3.6rem;
+}
+
+.card img {
+    width: 12.5rem;
+    height: 16.8rem;
+
+    border-radius: 0.5rem;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+
+    margin: 0 1.9rem;
+}
+
+.content h2 {
+    display: flex;
+    align-items: center;
+}
+
+.content h2 img {
+    width: 0.7rem;
+    height: 0.95rem;
+
+    margin-right: 0.4rem;
+}
+
+.content h2 span {
+    font-weight: 400;
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    margin-right: 1.2rem;
+    color: #2b283a;
+}
+
+.content h2 a {
+    text-decoration: underline;
+    font-weight: 400;
+    font-size: 1rem;
+    color: #918e9b;
+}
+
+.content h1 {
+    font-weight: 700;
+    font-size: 2.5rem;
+
+    color: #2b283a;
+    margin-top: 0.7rem;
+    margin-bottom: 1rem;
+}
+
+.content h3 {
+    font-weight: 700;
+    font-size: 1rem;
+    color: #2b283a;
+    margin-bottom: 0.9rem;
+}
+
+.content p {
+    font-weight: 400;
+    line-height: 1.536rem;
+    font-size: 0.98rem;
+    color: #2b283a;
+    max-width: 32.6rem;
+    margin-right: 0.6rem;
+}
