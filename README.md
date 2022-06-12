@@ -8,7 +8,7 @@ Exercício do curso de react : [Scrimba - Learn React](https://scrimba.com/learn
 
 ## Links
 
-Link: https://travel.journal.vercel.app/
+Link: https://travel-journal-seven.vercel.app/
 
 ## Aprendizados
 
