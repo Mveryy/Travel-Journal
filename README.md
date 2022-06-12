@@ -4,7 +4,7 @@ Exercício do curso de react : [Scrimba - Learn React](https://scrimba.com/learn
 
 ## Screenshots
 
-![](travel-journal/public/screenshot.png)
+![](/public/screenshot.png)
 
 ## Links
 
